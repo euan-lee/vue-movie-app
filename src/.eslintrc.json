@@ -1,0 +1,9 @@
+{
+"exnteds":[
+  "eslint:recommanded",
+  "plugin:@typescript-eslint/recommanded",
+  "plugin:vue/vue3-recommanded",
+  "plugin:prettier/recommanded"
+  ],
+  "parserOptions":{}
+}
